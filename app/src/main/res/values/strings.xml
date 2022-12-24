@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OTPVERIFICATION</string>
+    <string name="otp_verification">OTP VERIFICATION</string>
+    <string name="todo">TODO</string>
+    <string name="one_time_password_send_on_your_mobile_no">One Time Password send on your mobile no.</string>
+    <string name="enter_your_mobile_no">Enter Your Mobile No</string>
+    <string name="_91">+91-</string>
+    <string name="get_otp">GET OTP</string>
+    <string name="_0000000000">0000000000</string>
+</resources>
